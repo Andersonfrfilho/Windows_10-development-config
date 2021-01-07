@@ -1,4 +1,9 @@
 # Windows_10-development-config
 
-1* - add ssh
+1* - Hable ssh and generating ssh
+     - https://tecnoblog.net/229971/windows-10-ativar-openssh-cliente/
+     - open temrinal
+     - run command
+     - ssh-keygen
+     - obs, not must password
      - settings/aplications/resources-optional/add-resource/ssh-client
