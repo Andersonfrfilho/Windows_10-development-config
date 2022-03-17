@@ -16,3 +16,14 @@ net stop winnat
 docker start ...
 net start winnat
 ```
+
+variables:
+ANDROID_HOME = C:\Users\ander\AppData\Local\Android\Sdk
+JAVA_HOME = C:\Arquivos de Programas\Android\Android Studio\jre\jre
+PATH = 
+C:\Users\ander\AppData\Local\Android\Sdk\platform-tools
+C:\Users\ander\AppData\Local\Android\Sdk\tools
+C:\Users\ander\AppData\Local\Android\Sdk\tools\bin
+C:\Users\ander\AppData\Local\Android\Sdk\emulator
+
+emulator -no-snapshot -avd Pixel_5
