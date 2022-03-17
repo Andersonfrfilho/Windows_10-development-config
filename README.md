@@ -17,6 +17,8 @@ docker start ...
 net start winnat
 ```
 
+Set-ExecutionPolicy RemoteSigned
+
 variables:
 ANDROID_HOME = C:\Users\ander\AppData\Local\Android\Sdk
 JAVA_HOME = C:\Arquivos de Programas\Android\Android Studio\jre\jre
